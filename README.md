@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Maria 👋
 
-<!--
-**alegriavmaria-ai/alegriavmaria-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst with a background in Public Policy and Public Health.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on data analytics, machine learning and data visualization projects.
+- 🌱 I’m currently strengthening my skills in Python, SQL, Power BI, Tableau, Snowflake, Spark and Machine Learning.
+- 👯 I’m looking to collaborate on data-driven projects related to public policy, public health and social impact.
+- 🤔 I’m looking to learn more about advanced Machine Learning, MLOps and best practices for production-ready data projects.
+- 💬 Ask me about data analysis, public health data, monitoring & evaluation, Python or SQL.
+- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/mariaalegriavillalobos)
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I’m usually accompanied by my Miniature Schnauzer while working on data projects. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- Cancer Mortality in Chile (https://github.com/alegriavmaria-ai/TFM-letalidad-cancer-chile)
